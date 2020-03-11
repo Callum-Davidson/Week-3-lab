@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583922294 source:c:\users\callu\onedrive - the university of newcastle\engg 1003\lab week 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
